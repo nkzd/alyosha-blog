@@ -5,4 +5,4 @@ pubDate: 2025-03-14
 
 Software engineer, looking to improve his writing.
 
-![my-image](./about-me.jpg)
+![my-image](/images/about-me.webp)
