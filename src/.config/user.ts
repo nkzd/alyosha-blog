@@ -41,7 +41,7 @@ export const userConfig: Partial<UserConfig> = {
   },
   appearance: {
     locale: 'en-us',
-    theme: 'light',
+    theme: 'system',
   },
   seo: {
     twitter: '@AlyoshaDev',
