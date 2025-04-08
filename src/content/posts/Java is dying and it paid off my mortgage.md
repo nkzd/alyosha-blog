@@ -4,7 +4,7 @@ pubDate: 2025-04-08
 # modDate: 2025-01-03 15:01
 categories: ["Java", "Career"]
 description: A personal reflection on fearing Java was a career dead-end, only to discover its stability and high pay.
-slug: java-paid-off-my-mortgage
+slug: java-is-dying-and-it-paid-off-my-mortgage
 pin: true
 ---
 
