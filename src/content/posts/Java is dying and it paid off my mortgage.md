@@ -8,8 +8,6 @@ slug: java-is-dying-and-it-paid-off-my-mortgage
 pin: true
 ---
 
-# Java is dying and it paid off my mortgage
-
 Have you ever been afraid your current tech stack at work will limit your career options in the future?
 
 In my first job out of college, I was working with the MERN stack. Back then, I was devouring any content about software development on YouTube. 90% of it was pretty much about JavaScript, and it always felt kind of relevant to my work. The other 10% was about some new language or framework that almost no one used besides Fireship or ThePrimeagen.
