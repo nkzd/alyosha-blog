@@ -8,7 +8,7 @@ slug: java-is-dying-and-it-paid-off-my-mortgage
 pin: true
 ---
 
-# Java is dying and it paid off my mortgages
+# Java is dying and it paid off my mortgage
 
 Have you ever been afraid your current tech stack at work will limit your career options in the future?
 
